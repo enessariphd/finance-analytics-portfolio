@@ -1,0 +1,35 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+.env
+
+# Raw / intermediate / clean data
+data/raw/
+data/interim/
+data/clean/
+*/data/raw/
+*/data/interim/
+*/data/clean/
+
+# Model binaries
+outputs/models/
+*/outputs/models/
+*.joblib
+*.pkl
+*.pickle
+
+# Large compressed files
+*.zip
+*.gz
+
+# Temporary outputs
+outputs/temp/
+*/outputs/temp/

@@ -1,0 +1,4 @@
+section,interpretation,top_features
+Logistic positive coefficients,"Features with positive coefficients are associated with higher predicted PD, holding other model inputs constant after preprocessing.",term_months; purpose_small_business; grade_G; grade_F; installment; grade_E; dti; sub_grade_B5; open_acc; purpose_medical
+Logistic negative coefficients,"Features with negative coefficients are associated with lower predicted PD, holding other model inputs constant after preprocessing.",grade_A; sub_grade_A1; purpose_wedding; grade_B; home_ownership_MORTGAGE; verification_status_Not Verified; sub_grade_A2; purpose_car; sub_grade_B1; sub_grade_B2
+XGBoost feature importance,XGBoost feature importance identifies the variables most used by the challenger model for non-linear risk separation.,grade_A; int_rate; grade_D; grade_C; grade_B; term_months; grade_E; mort_acc; home_ownership_MORTGAGE; verification_status_Not Verified

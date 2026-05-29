@@ -1,0 +1,7 @@
+loan_status,count,share
+Fully Paid,1076448,0.7862082263337336
+Charged Off,268488,0.19609630402201636
+Late (31-120 days),21443,0.015661381689848698
+Does not meet the credit policy. Status:Fully Paid,1984,0.0014490594260439217
+Does not meet the credit policy. Status:Charged Off,761,0.0005558136205743066
+Default,40,2.9214907783143583e-05

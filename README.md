@@ -1,0 +1,24 @@
+# Finance Analytics Portfolio
+
+This repository contains a set of public-data finance analytics portfolio projects developed to demonstrate applied skills in credit risk analytics, treasury/ALM monitoring, public company valuation, multi-asset portfolio analytics and growth capital screening.
+
+## Projects
+
+1. **Credit Risk Analytics Mini-Model**  
+   PD estimation, model validation, IFRS 9-style ECL, stress testing and Turkey macro-sector overlay.
+
+2. **Turkey Treasury / ALM & Liquidity Risk Dashboard**  
+   Public-data treasury monitoring dashboard with funding, liquidity, FX, curve and ALM proxy indicators.
+
+3. **Türkiye Multi-Asset Portfolio Analytics**  
+   Risk-return analysis, scenario testing, VaR/ES and Monte Carlo simulation across Türkiye-focused asset proxies.
+
+4. **Ford Otosan Public Company Valuation Case**  
+   DCF, trading comparables and valuation-method divergence under an IAS29-consistent real valuation framework.
+
+5. **Fortis Energy Growth Capital Screening Memo**  
+   Screening-level renewable energy growth capital assessment using project economics and platform analysis.
+
+## Scope
+
+All projects are built using publicly available data and are intended as analytical portfolio case studies. They do not represent investment advice, regulatory models, internal bank models, or production financial systems.

@@ -1,0 +1,19 @@
+section,metric,value,plain_value
+Dataset,Clean modeling observations,"1,369,164",1369164.0
+Dataset,Observed default rate,21.23%,0.2123427142402225
+Dataset,Total EAD proxy in clean data,USD 19.77bn,19769680525.0
+Model performance,Logistic Regression test AUC,0.709,0.7085791456593966
+Model performance,Logistic Regression test Gini,0.417,0.4171582913187932
+Model performance,XGBoost challenger test AUC,0.718,0.7179065366073645
+Model performance,XGBoost challenger test Gini,0.436,0.4358130732147289
+Risk segmentation,Low Risk actual default rate,7.37%,0.0737087098784668
+Risk segmentation,Very High Risk actual default rate,38.86%,0.3885653630414459
+Risk segmentation,Very High Risk exposure share,31.21%,0.3121489797005608
+Risk segmentation,Very High Risk default share,45.75%,0.4574753496904379
+IFRS 9-style ECL,Stage 1 exposure share,40.05%,0.4004903777356027
+IFRS 9-style ECL,Stage 1 ECL share,8.69%,0.0869401065757496
+IFRS 9-style ECL,Stage 2 + Stage 3 ECL share,91.31%,0.9130598934242503
+IFRS 9-style ECL,Very High Risk ECL share,53.05%,0.5305439788178661
+IFRS 9-style ECL,Base scenario total ECL,USD 1.34bn,1341190800.9338996
+Stress testing,Severe Stress total ECL,USD 2.17bn,2165129133.754694
+Stress testing,Severe Stress ECL increase vs base,61.43%,0.6143334209025804

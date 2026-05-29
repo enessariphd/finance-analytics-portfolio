@@ -1,0 +1,33 @@
+base_risk_band,stressed_risk_band,exposure_share_of_base_band,scenario,pd_multiplier
+Low Risk,Low Risk,0.7140998721748134,Adverse,1.25
+Medium Risk,Low Risk,0.0,Adverse,1.25
+High Risk,Low Risk,0.0,Adverse,1.25
+Very High Risk,Low Risk,0.0,Adverse,1.25
+Low Risk,Medium Risk,0.2858935274627057,Adverse,1.25
+Medium Risk,Medium Risk,0.5114696046953614,Adverse,1.25
+High Risk,Medium Risk,0.0,Adverse,1.25
+Very High Risk,Medium Risk,0.0,Adverse,1.25
+Low Risk,High Risk,0.0,Adverse,1.25
+Medium Risk,High Risk,0.4885303953046386,Adverse,1.25
+High Risk,High Risk,0.42759242575634215,Adverse,1.25
+Very High Risk,High Risk,0.0,Adverse,1.25
+Low Risk,Very High Risk,6.600362480906848e-06,Adverse,1.25
+Medium Risk,Very High Risk,0.0,Adverse,1.25
+High Risk,Very High Risk,0.5724075742436578,Adverse,1.25
+Very High Risk,Very High Risk,1.0,Adverse,1.25
+Low Risk,Low Risk,0.532067466925171,Severe Stress,1.5
+Medium Risk,Low Risk,0.0,Severe Stress,1.5
+High Risk,Low Risk,0.0,Severe Stress,1.5
+Very High Risk,Low Risk,0.0,Severe Stress,1.5
+Low Risk,Medium Risk,0.46792739945956596,Severe Stress,1.5
+Medium Risk,Medium Risk,0.17583920824811375,Severe Stress,1.5
+High Risk,Medium Risk,0.0,Severe Stress,1.5
+Very High Risk,Medium Risk,0.0,Severe Stress,1.5
+Low Risk,High Risk,0.0,Severe Stress,1.5
+Medium Risk,High Risk,0.8208139565884741,Severe Stress,1.5
+High Risk,High Risk,0.0,Severe Stress,1.5
+Very High Risk,High Risk,0.0,Severe Stress,1.5
+Low Risk,Very High Risk,5.133615262927548e-06,Severe Stress,1.5
+Medium Risk,Very High Risk,0.003346835163412135,Severe Stress,1.5
+High Risk,Very High Risk,1.0,Severe Stress,1.5
+Very High Risk,Very High Risk,1.0,Severe Stress,1.5
