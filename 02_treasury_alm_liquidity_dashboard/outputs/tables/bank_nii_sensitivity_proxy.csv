@@ -1,0 +1,4 @@
+scenario,rate_shock_pp,repricing_gap_tl_bn,estimated_annual_nii_impact_tl_bn
+Rate cut -200 bps,-2.0,-757.9408911000003,15.158817822000005
+Rate shock +100 bps,1.0,-757.9408911000003,-7.5794089110000025
+Liquidity tightening +300 bps,3.0,-757.9408911000003,-22.73822673300001

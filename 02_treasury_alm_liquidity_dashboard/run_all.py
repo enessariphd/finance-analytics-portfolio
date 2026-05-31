@@ -4,11 +4,15 @@ Run the Turkey Treasury / ALM & Liquidity Risk Dashboard workflow.
 Usage:
     python run_all.py --raw-dir "/path/to/local/data_raw"
 
+Optional bank-level extension:
+    python run_all.py --raw-dir "/path/to/local/data_raw" --bank-pack "/path/to/treasury_alm_data_pack_4_bank_alm_extension.xlsx"
+
 This workflow:
 1. Audits raw public-data source files
 2. Prepares market, FX/gold, yield, funding and reserves data
 3. Prepares BDDK / BRSA banking-sector liquidity data
 4. Builds the combined dashboard dataset and liquidity stress score
+5. Optionally prepares a Garanti BBVA public-data ALM proxy extension
 """
 
 from __future__ import annotations
@@ -29,6 +33,11 @@ def run_step(command: list[str]) -> None:
 def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("--raw-dir", required=True, help="Local raw-data directory path")
+    parser.add_argument(
+        "--bank-pack",
+        required=False,
+        help="Optional local bank ALM extension workbook path",
+    )
     args = parser.parse_args()
 
     project_dir = Path(__file__).resolve().parent
@@ -57,6 +66,16 @@ def main() -> None:
             str(project_dir / "scripts" / "04_build_dashboard_dataset.py"),
         ],
     ]
+
+    if args.bank_pack:
+        steps.append(
+            [
+                sys.executable,
+                str(project_dir / "scripts" / "05_prepare_bank_alm_proxy.py"),
+                "--bank-pack",
+                args.bank_pack,
+            ]
+        )
 
     for step in steps:
         run_step(step)

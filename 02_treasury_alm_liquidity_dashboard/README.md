@@ -18,7 +18,8 @@ The workflow produces:
 - Combined treasury / ALM dashboard dataset
 - Latest dashboard snapshot
 - Composite liquidity stress score and component table
-- Dashboard charts for funding, FX/gold, yield curve, reserves, banking liquidity, deposit structure and stress score
+- Garanti BBVA public-data ALM proxy tables
+- Dashboard charts for funding, FX/gold, yield curve, reserves, banking liquidity, deposit structure, bank ALM proxy and stress score
 
 ## Latest dashboard snapshot
 
@@ -45,6 +46,7 @@ Selected latest readings from the Python workflow:
 - scripts/02_prepare_market_data.py
 - scripts/03_prepare_banking_data.py
 - scripts/04_build_dashboard_dataset.py
+- scripts/05_prepare_bank_alm_proxy.py
 - outputs/charts/
 - outputs/tables/
 - memo/
@@ -72,6 +74,7 @@ The workflow proceeds in four stages:
 2. 02_prepare_market_data.py prepares market, FX/gold, yield, funding and reserves data.
 3. 03_prepare_banking_data.py parses BDDK / BRSA HTML-exported .xls files and builds sector liquidity indicators.
 4. 04_build_dashboard_dataset.py merges market and banking indicators, constructs stress components and generates the composite liquidity stress score.
+5. 05_prepare_bank_alm_proxy.py optionally prepares a Garanti BBVA public-data ALM proxy extension from a local financial statement extract.
 
 The composite liquidity stress score combines:
 
@@ -111,6 +114,10 @@ pip install -r requirements.txt
 Run the full workflow:
 
 python run_all.py --raw-dir "/path/to/local/data_raw"
+
+Optional Garanti BBVA ALM proxy extension:
+
+python run_all.py --raw-dir "/path/to/local/data_raw" --bank-pack "/path/to/treasury_alm_data_pack_4_bank_alm_extension.xlsx"
 
 Outputs are written to:
 
