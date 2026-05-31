@@ -1,0 +1,4 @@
+Peer set,EV/Revenue,EV/EBITDA,P/E,FROTO discount vs EV/EBITDA,Interpretation,,
+Core Manufacturing,0.8308498933987728,12.144659014164814,18.075173569547523,-0.48034377914393767,Closest operating peer set; preferred reference for FROTO comps.,,
+Broader BIST Auto,0.8308498933987728,12.144659014164814,17.816332943388574,-0.48034377914393767,Includes OTKAR and DOAS; better breadth but more heterogeneous.,,
+Sensitivity incl. KARSN,0.9364095003424096,11.6891747782794,18.075173569547523,-0.46009468362014183,Not preferred for headline valuation due to KARSN comparability issues.,,

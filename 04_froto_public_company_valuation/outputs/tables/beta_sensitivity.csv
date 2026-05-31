@@ -1,0 +1,4 @@
+Beta case,Beta source,Beta,Real WACC,Real g,DCF implied price,Upside/downside,Interpretation
+Yahoo low-beta case,Yahoo Finance 5Y monthly,0.4,0.11,0.02,90.45238477273931,-0.010908859784151903,Current selected base beta; aligns with real DCF base case
+Midpoint beta case,Midpoint between Yahoo and Şeker,0.6,0.12358392,0.02,74.28817668407282,-0.1876634588947751,Bridge case to test whether the valuation is beta-sensitive
+Şeker beta case,Şeker Invest 2Y daily,0.8,0.13716784,0.02,61.895726657620905,-0.3231741207477211,Higher beta; should pressure DCF value and serve as conservative sensitivity

@@ -13,8 +13,8 @@ This repository contains a set of public-data finance analytics portfolio projec
 3. **[Türkiye Multi-Asset Portfolio Analytics](03_multi_asset_portfolio_analytics/)**  
    Python portfolio analytics workflow covering cleaned return series, risk-return metrics, drawdowns, VaR/ES, scenario testing and Monte Carlo simulation across Türkiye-focused asset proxies.
 
-4. **Ford Otosan Public Company Valuation Case**  
-   DCF, trading comparables and valuation-method divergence under an IAS29-consistent real valuation framework.
+4. **[Ford Otosan Public Company Valuation Case](04_froto_public_company_valuation/)**  
+   Public-company valuation case with IAS29-consistent real DCF, trading comparables, WACC/beta sensitivity, valuation-method divergence and memo-ready Python charts.
 
 5. **Fortis Energy Growth Capital Screening Memo**  
    Screening-level renewable energy growth capital assessment using project economics and platform analysis.
