@@ -19,6 +19,19 @@ This repository contains a set of public-data finance analytics portfolio projec
 5. **[Fortis Energy Growth Capital Screening Memo](05_fortis_growth_capital_screening/)**  
    Renewable energy growth capital screening case with project economics, IRR/payback sensitivity, platform assessment and memo-ready Python charts.
 
+## How to read this portfolio
+
+This portfolio is organized so that different reviewers can start with the projects most relevant to their role focus:
+
+| Role focus | Suggested starting points |
+|---|---|
+| Credit risk / banking analytics | Project 01: Credit Risk Analytics Mini-Model; Project 02: Treasury / ALM Dashboard |
+| Treasury / ALM / market risk | Project 02: Treasury / ALM Dashboard; Project 03: Multi-Asset Portfolio Analytics |
+| Portfolio analytics / asset management | Project 03: Multi-Asset Portfolio Analytics |
+| Corporate finance / valuation | Project 04: Ford Otosan Valuation Case; Project 05: Fortis Growth Capital Screening |
+| Growth capital / investment screening | Project 05: Fortis Growth Capital Screening; Project 04: Ford Otosan Valuation Case |
+| Data analytics / Python workflow review | Projects 01, 02 and 03 provide the strongest reproducible Python workflow signals |
+
 ## Scope
 
 All projects are built using publicly available data and are intended as analytical portfolio case studies. They do not represent investment advice, regulatory models, internal bank models, or production financial systems.
