@@ -16,8 +16,8 @@ This repository contains a set of public-data finance analytics portfolio projec
 4. **[Ford Otosan Public Company Valuation Case](04_froto_public_company_valuation/)**  
    Public-company valuation case with IAS29-consistent real DCF, trading comparables, WACC/beta sensitivity, valuation-method divergence and memo-ready Python charts.
 
-5. **Fortis Energy Growth Capital Screening Memo**  
-   Screening-level renewable energy growth capital assessment using project economics and platform analysis.
+5. **[Fortis Energy Growth Capital Screening Memo](05_fortis_growth_capital_screening/)**  
+   Renewable energy growth capital screening case with project economics, IRR/payback sensitivity, platform assessment and memo-ready Python charts.
 
 ## Scope
 
