@@ -1,0 +1,11 @@
+metric,latest_reading,unit,interpretation
+Total loans,568139.51,TRY mn,Banking-sector credit stock
+Total deposits,644944.32,TRY mn,Banking-sector deposit funding base
+Loan/deposit ratio,88.09124948956834,%,Sector funding balance proxy
+FX deposit share,40.50316157525041,%,Dollarization / funding mix proxy
+KKM share,0.46825747686249886,%,FX-protected TL deposit stock proxy
+Demand deposit share,37.457399423255644,%,Deposit stability / repricing proxy
+Securities/deposits,25.72348261009571,%,Liquidity and collateral proxy
+Repo securities share,33.93795281965622,%,Repo-linked securities proxy
+Collateral securities share,25.20312275658409,%,Collateral availability proxy
+FX position/capital,21.97514415313704,%,Capital-relative FX position proxy

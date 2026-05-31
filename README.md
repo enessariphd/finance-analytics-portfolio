@@ -4,11 +4,11 @@ This repository contains a set of public-data finance analytics portfolio projec
 
 ## Projects
 
-1. **Credit Risk Analytics Mini-Model**  
+1. **[Credit Risk Analytics Mini-Model](01_credit_risk_analytics/)**  
    PD estimation, model validation, IFRS 9-style ECL, stress testing and Turkey macro-sector overlay.
 
-2. **Turkey Treasury / ALM & Liquidity Risk Dashboard**  
-   Public-data treasury monitoring dashboard with funding, liquidity, FX, curve and ALM proxy indicators.
+2. **[Turkey Treasury / ALM & Liquidity Risk Dashboard](02_treasury_alm_liquidity_dashboard/)**  
+   Public-data treasury and ALM monitoring workflow using Python to audit raw sources, prepare market and banking-sector indicators, build a weekly dashboard dataset, and generate a calibrated composite liquidity stress score.
 
 3. **Türkiye Multi-Asset Portfolio Analytics**  
    Risk-return analysis, scenario testing, VaR/ES and Monte Carlo simulation across Türkiye-focused asset proxies.

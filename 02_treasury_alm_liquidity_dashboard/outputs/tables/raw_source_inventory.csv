@@ -1,0 +1,30 @@
+relative_path,file_name,extension,size_mb,read_status,sheet_or_encoding,n_preview_columns,preview_columns
+bddk/deposits.xls,deposits.xls,.xls,0.166,failed,,,"Excel file format cannot be determined, you must specify an engine manually."
+bddk/fx_general_position.xls,fx_general_position.xls,.xls,0.125,failed,,,"Excel file format cannot be determined, you must specify an engine manually."
+bddk/loans.xls,loans.xls,.xls,0.078,failed,,,"Excel file format cannot be determined, you must specify an engine manually."
+bddk/securities.xls,securities.xls,.xls,0.107,failed,,,"Excel file format cannot be determined, you must specify an engine manually."
+bist_tlref/Türk Lirası Gecelik Referans Faiz Oranı Geçmiş Verileri.csv,Türk Lirası Gecelik Referans Faiz Oranı Geçmiş Verileri.csv,.csv,0.071,ok,utf-8,7,Tarih | Şimdi | Açılış | Yüksek | Düşük | Hac. | Fark %
+garanti/30_June_2025_Unconsolidated_Financials.xls,30_June_2025_Unconsolidated_Financials.xls,.xls,3.029,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/30_September_2025_Consolidated_Financials.xls,30_September_2025_Consolidated_Financials.xls,.xls,1.305,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/30_September_2025_Unconsolidated_Financials.xls,30_September_2025_Unconsolidated_Financials.xls,.xls,3.018,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/30_june_2025_Consolidated_Financials.xls,30_june_2025_Consolidated_Financials.xls,.xls,1.305,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/31_December_2025_Consolidated_Financials.xls,31_December_2025_Consolidated_Financials.xls,.xls,1.274,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/31_December_2025_Unconsolidated_Financials.xls,31_December_2025_Unconsolidated_Financials.xls,.xls,3.051,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/31_March_2025_Consolidated_Financials.xls,31_March_2025_Consolidated_Financials.xls,.xls,1.272,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/31_March_2025_Unconsolidated_Financials.xls,31_March_2025_Unconsolidated_Financials.xls,.xls,1.282,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/31_March_2026_Consolidated_Financials.xls,31_March_2026_Consolidated_Financials.xls,.xls,1.255,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/31_March_2026_Unconsolidated_Financials.xls,31_March_2026_Unconsolidated_Financials.xls,.xls,3.041,ok,a,10,Unnamed: 0 | Unnamed: 1 | Unnamed: 2 | Unnamed: 3 | Unnamed: 4 | Unnamed: 5 | Unnamed: 6 | Unnamed: 7 | Unnamed: 8 | Unnamed: 9
+garanti/Corporate-Presentation-May-2026.pdf,Corporate-Presentation-May-2026.pdf,.pdf,2.037,pdf_not_parsed,,,PDF source; not parsed in audit script
+garanti/GarantiBBVA-2024-integrated-annual-report.pdf,GarantiBBVA-2024-integrated-annual-report.pdf,.pdf,7.909,pdf_not_parsed,,,PDF source; not parsed in audit script
+garanti/GarantiBBVA-2025-integrated-annual-report.pdf,GarantiBBVA-2025-integrated-annual-report.pdf,.pdf,5.831,pdf_not_parsed,,,PDF source; not parsed in audit script
+market_yields/Turkey 10-Year Bond Yield Historical Data.csv,Turkey 10-Year Bond Yield Historical Data.csv,.csv,0.073,ok,utf-8,6,Date | Price | Open | High | Low | Change %
+market_yields/Turkey 2-Year Bond Yield Historical Data-2.csv,Turkey 2-Year Bond Yield Historical Data-2.csv,.csv,0.071,ok,utf-8,6,Date | Price | Open | High | Low | Change %
+market_yields/Turkey 5-Year Bond Yield Historical Data.csv,Turkey 5-Year Bond Yield Historical Data.csv,.csv,0.071,ok,utf-8,6,Date | Price | Open | High | Low | Change %
+tcmb/EUR_TRY Historical Data.csv,EUR_TRY Historical Data.csv,.csv,0.086,ok,utf-8,7,Date | Price | Open | High | Low | Vol. | Change %
+tcmb/EVDS_Deposit_Rate_18-05-2026.xlsx,EVDS_Deposit_Rate_18-05-2026.xlsx,.xlsx,0.228,ok,EVDS,55,Date | TP_EUR_MT01 | TP_EUR_MT02 | TP_EUR_MT03 | TP_EUR_MT04 | TP_EUR_MT05 | TP_EUR_MT06 | TP_TRY_MT01 | TP_TRY_MT02 | TP_TRY_MT03 | TP_TRY_MT04 | TP_TRY_MT05
+tcmb/EVDS_Loan_Rate_18-05-2026.xlsx,EVDS_Loan_Rate_18-05-2026.xlsx,.xlsx,0.014,ok,EVDS,11,Date | TP_BKR_TRY_KTF10 | TP_BKR_TRY_KTF101 | TP_BKR_TRY_17 | TP_BKR_TRY_18 | TP_BKR_TRY_1 | TP_BKR_EUR_1 | TP_BKR_USD_1 | TP_BKR_TRY_KTF18 | TP_BKR_TRY_KTFTUK | TP_BKR_TRY_KTFTUK01
+tcmb/EVDS_Reserves_18-05-2026.xlsx,EVDS_Reserves_18-05-2026.xlsx,.xlsx,0.021,ok,EVDS,4,Tarih | TP_AB_C1 | TP_AB_C2 | TP_AB_TOPLAM
+tcmb/GAU_TRY Historical Data.csv,GAU_TRY Historical Data.csv,.csv,0.105,ok,utf-8,7,Date | Price | Open | High | Low | Vol. | Change %
+tcmb/TCMB - 1 Hafta Repo.pdf,TCMB - 1 Hafta Repo.pdf,.pdf,0.088,pdf_not_parsed,,,PDF source; not parsed in audit script
+tcmb/TCMB - Consumer Prices.pdf,TCMB - Consumer Prices.pdf,.pdf,0.162,pdf_not_parsed,,,PDF source; not parsed in audit script
+tcmb/USD_TRY Historical Data-2.csv,USD_TRY Historical Data-2.csv,.csv,0.085,ok,utf-8,7,Date | Price | Open | High | Low | Vol. | Change %

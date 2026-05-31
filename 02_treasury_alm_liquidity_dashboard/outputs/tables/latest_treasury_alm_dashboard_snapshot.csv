@@ -1,0 +1,13 @@
+metric,latest_reading,unit,interpretation
+Policy rate,37.0,%,Monetary policy anchor
+TLREF,39.99,%,Overnight TL funding proxy
+TLREF-policy spread,2.990000000000002,pp,Short-term funding pressure signal
+USD/TRY,45.5798,,FX pressure monitor
+Gram gold,6689.098,TRY,FX/gold liquidity watch
+Deposit rate proxy,45.22333333333333,%,Average TRY deposit-rate proxy
+Loan rate proxy,49.103750000000005,%,Average TRY loan-rate proxy
+10Y-2Y slope,-6.649999999999999,pp,Curve shape / rate-risk signal
+Loan/deposit ratio,88.09124948956834,%,Sector funding balance proxy
+FX deposit share,40.50316157525041,%,Dollarization / funding mix proxy
+Total reserves,171528.5147686,USD mn,FX-gold buffer proxy
+Liquidity stress score,56.99999999999999,/100,Elevated

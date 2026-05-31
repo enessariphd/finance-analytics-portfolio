@@ -1,0 +1,9 @@
+component,latest_raw_input,standardized_or_normalized_contribution,stress_direction
+TLREF-policy spread,2.990000000000002,0.6845346004843086,Higher spread increases funding stress
+USD/TRY 12-week volatility,0.1181501468907545,-0.5324154256183077,Higher volatility increases FX stress
+Gold 12-week volatility,3.803760816647888,0.34531284321569,Higher volatility increases gold / precious-metal stress
+Curve inversion pressure,6.649999999999999,0.23820038832576623,Deeper inversion increases rate-risk stress
+Loan-deposit growth gap,0.5674238169535273,0.49217398955648767,Loan growth above deposit growth increases liquidity stress
+FX deposit share change,0.0,0.06224279777831424,Rising FX deposit share increases dollarization stress
+Reserve decline pressure,-0.0,-0.5256101037155654,Reserve declines increase FX liquidity stress
+Raw score / normalized score,0.7644390900266935,56.99999999999999,Elevated
