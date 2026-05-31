@@ -1,0 +1,20 @@
+sheet,n_preview_rows,n_preview_columns,preview_columns,read_status
+README,5,2,Türkiye Multi-Asset Portfolio Project — Clean Data Workbook | Unnamed: 1,ok
+Data_Quality,5,14,Dataset | Proxy / Usage | Observations | Start Date | End Date | Cleaning notes | Unnamed: 6 | Asset | Start Value | End Value | Cumulative Return | Avg Daily Return,ok
+Clean_Prices,5,5,Date | GAU/TRY Close | USD/TRY Close | BIST 30 Futures Close | HST Borrowing Instruments Fund NAV,ok
+Daily_Returns,5,5,Date | GAU/TRY Daily Return | USD/TRY Daily Return | BIST 30 Futures Daily Return | HST Bond Fund Daily Return,ok
+Index_100,5,5,Date | GAU/TRY Index 100 | USD/TRY Index 100 | BIST 30 Futures Index 100 | HST Bond Fund Index 100,ok
+Monthly_Data,5,12,Month End | GAU/TRY Close | USD/TRY Close | BIST 30 Futures Close | HST Bond Fund NAV | Unnamed: 5 | Unnamed: 6 | Month End.1 | GAU/TRY Monthly Return | USD/TRY Monthly Return | BIST 30 Futures Monthly Return | HST Bond Fund Monthly Return,ok
+Raw_GAU_TRY,5,7,Date | Close | Open | High | Low | Volume | Change %,ok
+Raw_USD_TRY,5,7,Date | Close | Open | High | Low | Volume | Change %,ok
+Raw_BIST30_Futures,5,7,Date | Close | Open | High | Low | Volume | Change %,ok
+Raw_HST_BondFund,5,2,Date | NAV,ok
+Analysis_README,3,1,Türkiye Multi-Asset Portfolio Analysis,ok
+Asset_Summary,4,11,Asset | Total Return | Annualized Return | Annualized Volatility | Max Drawdown | Best Daily Return | Worst Daily Return | Return / Volatility | Start Date | End Date | Observations,ok
+Correlation_Matrix,4,5,Asset | GAU/TRY | USD/TRY | BIST 30 Futures | HST Bond Fund,ok
+Portfolio_Weights,3,7,Portfolio | GAU/TRY | USD/TRY | BIST 30 Futures | HST Bond Fund | Weight Check | Investment Rationale,ok
+Portfolio_Returns,5,8,Date | GAU/TRY | USD/TRY | BIST 30 Futures | HST Bond Fund | Balanced Multi-Asset | Conservative / Pension-like | FX & Gold Hedge Tilt,ok
+Portfolio_Index_100,5,4,Date | Balanced Multi-Asset | Conservative / Pension-like | FX & Gold Hedge Tilt,ok
+Drawdowns,5,8,Date | GAU/TRY | USD/TRY | BIST 30 Futures | HST Bond Fund | Balanced Multi-Asset | Conservative / Pension-like | FX & Gold Hedge Tilt,ok
+Portfolio_Summary,3,11,Portfolio | Total Return | Annualized Return | Annualized Volatility | Max Drawdown | Best Daily Return | Worst Daily Return | Return / Volatility | Start Date | End Date | Observations,ok
+Dashboard,5,2,Türkiye Multi-Asset Portfolio Analysis Dashboard | Unnamed: 1,ok

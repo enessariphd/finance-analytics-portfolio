@@ -1,0 +1,4 @@
+Portfolio,GAU/TRY,USD/TRY,BIST 30 Futures,HST Bond Fund,Weight Check,Investment Rationale
+Balanced Multi-Asset,0.35,0.3,0.2,0.15,0.9999999999999999,"Baseline allocation balancing equity upside, fixed-income stability, FX and gold protection."
+Conservative / Pension-like,0.2,0.5,0.15,0.15,1.0,"More defensive allocation with higher fixed-income exposure, closer to a pension-style profile."
+FX & Gold Hedge Tilt,0.25,0.2,0.3,0.25,1.0,Allocation tilted toward FX and gold to test hedge-oriented performance under TRY depreciation/inflation pressure.
